@@ -1,0 +1,96 @@
+# English Grammar Rules
+- https://www.grammar.cl/Notes.htm
+
+## BASIC English Grammar
+- Adverbs of Frequency (Always, Often, Never, Seldom etc.)
+- Adverbs Spelling -LY
+- Can - Cannot
+- Do vs. Does - How to make questions in the Present Tense with Do and Does
+- Don't vs. Doesn't - How to make negative sentences with don't and doesn't
+- Genitive Case - When to use the apostrophe and the S ('s)
+- Have Has Go Goes - To Have and To Go in Affirmative, Negative and Questions
+- Noun + To Be + Noun
+- Past Tense - How to use the simple past tense - sentences and questions.
+- Past Tense Irregular Verbs - A list of verbs that are irregular in the Past Tense
+- Plural Nouns - Regular & irregular nouns in plural form
+- Possessive Adjectives - My, your, his, her, its, our, their.
+- Possessive Pronouns - Mine, yours, his, hers, its, ours, theirs.
+- Present Tense Verbs - Third Person - Conjugation of He, She, it in Present Tense
+- Present Tense vs. Progressive Tense
+- Present vs. Progressive vs. Past Tense - Comparing these three tenses.
+- Object Pronouns - Me, you, him, her, it, us, them
+- Question Words (Who, When, Why, What, Which, How)
+- Short Answers - Past Tense
+- Short Answers - Present Tense
+- Short Answers - To Be (Present Tense)
+- Simple Present Tense - How to make basic sentences in English
+- Spelling - Words ending in ED - Verbs, Adjectives and other words ending in ED
+- Spelling - Words ending in ING - Both present participles and gerunds
+- Subject Pronouns - I, You, He, She, It, We, You, They
+- There is / There are
+- There vs Their vs They're - The difference between these words
+- This That These Those - Demonstrative Pronouns
+- To Be (Past Tense)
+- To Be (Present Tense) - Using the verb To Be in the Present Tense
+- Where + To Be
+- Your vs You're - The difference between Your and You're in English
+- Zero Conditional - Zero conditionals (if-clauses)
+
+## INTERMEDIATE English Grammar
+- Adjectives ending in -ED and -ING - A list of these adjectives and the difference between these
+- Adjectives - Word Order - The order of adjectives before a noun.
+- Adverbs - When to use adverbs and the different types of adverbs.
+- Adverbs vs. Adjectives - The difference between adverbs and adjectives.
+- All vs Every vs Each - The difference between All, Every and Each.
+- Another vs Other vs Others - The difference between Another, Other and Others.
+- Articles - Definite and Indefinite - When to use (and not use) A, AN and THE
+- Both, Neither, Either - The difference between Both, Neither and Either
+- Can - Could - Modal verbs - Can and Could
+- Comparatives and Superlatives - Comparing things with -er and -est.
+- Conditionals - Conditional sentences - if-clauses
+- Countable and Uncountable Nouns - The different types of Nouns and Uses
+- Do - Does - Did - Done - The difference between Do, Does, Did and Done.
+- Every day vs All day - The difference between every day and all day.
+- Every day vs everyday - The difference between every day and everyday.
+- First Conditional - First Conditional Sentences (if-clauses)
+- For vs. Since - When to use For and when to use Since.
+- Future - Will - Using Will to talk about the future.
+- Future - Will vs. Going to - The difference between Will and Going to (future).
+- Going to - Using Going to in different tenses.
+- How much - How many - The difference between How much and How many.
+- May - Might - Modal verbs - May and Might
+- Modal Verbs - Can, Could, May, Might, Must, Shall, Should, Will, Would
+- Much - Many - A lot of - Few - These common quantifiers and when to use them.
+- Must - The modal verb - Must (also Have to)
+- Nouns - Common, Proper, Countable, Uncountable, Concrete, Abstract, Compound and Collective Nouns
+- Parts of Speech - The difference between nouns, pronouns, adjectives, verbs, adverbs, prepositions, conjunctions and interjections.
+- Past Participles - Past participles are used in Perfect Tenses and Passive Voice.
+- Prepositions List - A list of Prepositions in English.
+- Prepositions of Place - An explanation of the different prepositions of place in English
+- Prepositions of Time - At / On / In - When to use At, On and In regarding time.
+- Present Perfect Tense - When to use the Perfect Tense and its structure
+- Pronunciation of ED - The correct pronunciation of words that end in ED.
+- Pronunciation of -S - The correct pronunciation of words that end in S.
+- Quantifiers - Position, use and examples of Simple and Complex Quantifiers
+- Question Tags - Which question tags to use and when.
+- Reflexive Pronouns - Myself, yourself, himself, herself, itself, ourselves, yourselves, themselves.
+- Second Conditional - Second Conditional Sentences (if-clauses)
+- Shall - The modal verb - Shall
+- Should - The modal verb - Should (also Ought to)
+- So vs. Such - The difference between So and Such
+- Some - Any - A - An - When to use these words
+- Still, Yet, Already - The difference between Still, Yet and Already
+- Two - Too - To - The difference between these words that sound the same.
+- Used to vs Use to - The difference between Used to and Use to.
+- Very vs. Too vs. Enough - The difference between Very, Too and Enough.
+- Would - The modal verb - Would
+
+## ADVANCED English Grammar
+- Compound Adjectives - When to put the hyphen between adjectives
+- If I were you - An explanation of why we say If I were and not If I was.
+- Like vs. As - The difference between Like and As when used to compare.
+- Passive Voice - The difference between Active and Passive sentences and examples of them
+- So - Neither - Either
+- Third Conditional - Third Conditional Sentences (if-clauses)
+- Transitive and Intransitive Verbs - The difference between transitive, intransitive and ambitransitive verbs
+- Whoever, Whatever, Whenever - The difference between these W-ever words
